@@ -22,7 +22,7 @@ with open("secrets.json") as f:
     mongo_string = secrets["mongo_string"]
 
 # ---- CONFIGURAZIONE PER AGRAPH
-config = Config(width=750,
+config = Config(width=1000,
                 height=600,
                 directed=True,
                 physics={"barnesHut": {"gravitationalConstant": -5000, "centralGravity": 0.3, "springLength": 95, "springConstant": 0.04, "damping": 0.09, "avoidOverlap": 0.1}},
@@ -291,7 +291,7 @@ st.caption("Analyze patient's health data through interactive graph visualizatio
 
 result1 = graph_re.run(f"""
 MATCH (p:Patient)-[]-(n:`Note Clinical`)-[]-(d:`Disease or Syndrome`)
-WHERE p.subject_id = {paziente_id}
+WHERE p.subject_id = {paziente_id} AND d.name <> " " AND NOT (toLower(d.name) CONTAINS "nan")
 RETURN p,n,d
 """)
 
@@ -349,7 +349,7 @@ with st.expander("__The diseases associated with each patient's clinical note__"
 # ----
 result2 = graph.run(f"""
 MATCH (p:Patient)-[]-(n:`Note Clinical`)-[]->(b:`Body Part`)
-WHERE p.subject_id = {paziente_id} 
+WHERE p.subject_id = {paziente_id} AND b.name <> " " AND NOT (toLower(b.name) CONTAINS "nan")
 RETURN p,b,n
 """)
 
@@ -407,7 +407,7 @@ with st.expander("__The painful body parts associated with each patient's clinic
 # ----
 result3 = graph_re.run(f"""
 MATCH (p:Patient)-[]-(n:`Note Clinical`)-[]-(d:`Disease or Syndrome`)-[]-(ps:`Pharmacologic Substance`)
-WHERE p.subject_id = {paziente_id}
+WHERE p.subject_id = {paziente_id} AND ps.name <> " " AND NOT (toLower(ps.name) CONTAINS "nan")
 RETURN p,n,d,ps
 """)
 
@@ -470,7 +470,7 @@ for record in result3:
 
 with st.expander("__The pharmacological substances taken by the patient for each disease diagnosed in his clinical notes__", expanded=True):
     if flag == 1:
-        st.caption("LEGEND COLOR: __:red[PATIENTS]__ - __:green[CLINICAL NOTE]__ - __:blue[DISEASE OR SINDROME]__ - __:orange[TREATS]__")
+        st.caption("LEGEND COLOR: __:red[PATIENTS]__ - __:green[CLINICAL NOTE]__ - __:blue[DISEASE OR SINDROME]__ - __:orange[PHARMACOLOGIC SUBSTANCE]__")
         agraph(nodes=nodes, 
                edges=edges, 
                config=config)
@@ -480,7 +480,7 @@ with st.expander("__The pharmacological substances taken by the patient for each
 # ----
 result4 = graph_re.run(f"""
 MATCH (p:Patient)-[]-(n:`Note Clinical`)-[]-(d:`Disease or Syndrome`)-[]-(s:`Sign or Symptom`)
-WHERE p.subject_id = {paziente_id}
+WHERE p.subject_id = {paziente_id} AND d.name <> " " AND NOT (toLower(d.name) CONTAINS "nan") AND s.name <> " " AND NOT (toLower(s.name) CONTAINS "nan")
 RETURN p,n,d,s
 """)
 
@@ -553,7 +553,7 @@ with st.expander("__The symptoms presented by the patient for each disease diagn
 # ----
 result5 = graph_re.run(f"""
 MATCH (p:Patient)-[]-(n:`Note Clinical`)-[]-(d:`Disease or Syndrome`)-[]-(dp:`Diagnostic Procedure`)
-WHERE p.subject_id = {paziente_id}
+WHERE p.subject_id = {paziente_id} AND d.name <> " " AND NOT (toLower(d.name) CONTAINS "nan") AND dp.name <> " " AND NOT (toLower(dp.name) CONTAINS "nan")
 RETURN p,n,d,dp
 """)
 
@@ -625,7 +625,7 @@ with st.expander("__The diagnostic procedures performed on the patient for each 
 # ----
 result6 = graph_re.run(f"""
 MATCH (p:Patient)-[]-(n:`Note Clinical`)-[]-(d:`Disease or Syndrome`)-[]-(l:`Laboratory or Test Result`)
-WHERE p.subject_id = {paziente_id}
+WHERE p.subject_id = {paziente_id} AND d.name <> " " AND NOT (toLower(d.name) CONTAINS "nan") AND l.name <> " " AND NOT (toLower(l.name) CONTAINS "nan")
 RETURN p,n,d,l
 """)
 
@@ -664,7 +664,7 @@ for record in result6:
         nodes.append( Node(id=test_node.identity, 
                     label=str(test_node['name']), 
                     size=25,
-                    color='pink') 
+                    color='orange') 
                 )
     edges.append( Edge(source=patient_node.identity,
                     label="HAS_NOTE",
@@ -687,7 +687,7 @@ for record in result6:
 
 with st.expander("__Laboratory tests performed on the patient for each disease diagnosed in his clinical notes__", expanded=True):
     if flag == 1:
-        st.caption("LEGEND COLOR: __:red[PATIENTS]__ - __:green[CLINICAL NOTE]__ - __:blue[DISEASE OR SINDROME]__ - __:pink[TEST]__ ")
+        st.caption("LEGEND COLOR: __:red[PATIENTS]__ - __:green[CLINICAL NOTE]__ - __:blue[DISEASE OR SINDROME]__ - __:orange[LABORATORY OR TEST RESULT]__ ")
         agraph(nodes=nodes, 
                edges=edges, 
                config=config)
