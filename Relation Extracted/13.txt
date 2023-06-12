@@ -1,0 +1,14 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Coronary Arteriosclerosis,Plain chest X-ray,Chest Pain,nan,nan
+Chronic Obstructive Airway Disease,Plain chest X-ray,Coughing,nan,Patient
+Hyperlipidemia,Plain chest X-ray,nan,nan,PND
+Ischemic cardiomyopathy,Plain chest X-ray,Chest Pain,nan,Patient
+Leukocytosis,nan,Fever,WBC count,nan
+Osteoporosis,Plain chest X-ray,Weakness,Bone density test,nan
+Consumption,Plain chest X-ray,Coughing,Sputum culture,nan
+Pulmonary,Atrial Fibrillation,Echocardiography,Dyspnea,BNP level,digoxin 
+Poliomyelitis,Nerve conduction studies,Muscle weakness,Viral culture,nan
+Pneumonia,Plain chest X-ray,Fever,Sputum culture,Antibiotics 
+Respiratory Insufficiency,Blood gas analysis,Dyspnea,Oxygen saturation result,Oxygen therapy 
+Urinary Incontinence,Urodynamic testing,Urgency of micturition,Urine analysis,Anticholinergics 
+Bradycardia,Holter monitor,Chest Pain,EKG result,Pacemaker implantation

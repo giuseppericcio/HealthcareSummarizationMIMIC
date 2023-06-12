@@ -1,0 +1,4 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hypercholesterolemia,Echo-Planar Imaging,nan,nan,nan
+Congestive heart failure,Echo-Planar Imaging,Chest Pain,nan,Oxycodone-Acetaminophen
+Hypertensive disease,bronchial endoscopy,Dyspnea,nan,nan

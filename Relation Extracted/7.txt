@@ -1,0 +1,14 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Cerebrovascular accident,Magnetic Resonance Imaging,Trouble speaking,Blood pressure test result,
+Coronary Arteriosclerosis,Diagnosis,Chest pain,Cholesterol level test result,
+Cerebral Infarction,Magnetic Resonance Imaging,Numbness on one side of the body,Blood glucose level test result,
+Hyperthyroidism,Thyroid function tests,Rapid heartbeat,Thyroid hormone level test result,
+Central Retinal Arterial Occlusion,Ophthalmoscopy,Vision loss,Eye pressure test result,
+Gestational thyrotoxicosis,Thyroid function tests,Rapid heartbeat,Thyroid hormone level test result,
+Urinary tract infection,Urinalysis,Painful urination,Urine culture and sensitivity test result,
+Trigeminal Neuralgia,Diagnosis,Facial pain,MRI with contrast dye
+Artery coronary stenosis,Echocardiography,Chest pain,Ejection fraction (EF) test result,Nitroglycerin
+Multiple Sclerosis,MRI with contrast dye,Numbness and tingling in limbs,Cerebrospinal fluid analysis,methylprednisolone
+Pica Disease,Blood tests,Iron deficiency,Complete blood count (CBC) test results,Iron supplements
+Hypoventilation,Pulmonary function tests,Dyspnea,Blood gas analysis,morphine
+Infarction,ECG,Chest pain,Troponin levels,morphine

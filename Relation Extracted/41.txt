@@ -1,0 +1,9 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Cardiomyopathies,Ejection fraction (procedure),nan,nan,Captopril
+Coronary Arteriosclerosis,Ejection fraction (procedure),Chest Pain,nan,Coumadin
+Hypertensive disease,Ejection fraction (procedure),nan,nan,MEDICAL
+Heart failure,Ejection fraction (procedure),Nausea,nan,Propofol
+Left main coronary artery disease,Ejection fraction (procedure),nan,nan,MEDICAL
+Atrial Fibrillation,Ejection fraction (procedure),nan,nan,Coumadin
+Stenosis,Ejection fraction (procedure),nan,nan,MEDICAL
+Mitral Valve Insufficiency,Ejection fraction (procedure),nan,nan,Captopril

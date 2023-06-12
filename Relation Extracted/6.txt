@@ -1,0 +1,5 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hypertensive disease,Angiogram,,Blood pressure measurement,
+Pneumonia,,Chest X-ray,Culture and sensitivity testing,Antibiotics
+Mental Depression,,Depressed mood,Blood test,Antidepressants
+nan,,,,

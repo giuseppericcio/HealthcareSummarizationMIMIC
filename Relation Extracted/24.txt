@@ -1,0 +1,22 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Kidney Diseases,Biopsy,Pain,Left ventricular wall motion,fraction
+Diabetes Mellitus,Chest CT,Fatigue,Left ventricular wall motion,MEDICAL
+Diabetes,nan,nan,Left ventricular wall motion,beta blocker
+Cardiomyopathies,Magnetic Resonance Imaging (MRI) of Heart,Chest Pain,Left ventricular wall motion,diltiazem
+Kidney Failure, Acute,Biopsy,Pain,Left ventricular wall motion,fraction
+Coronary Arteriosclerosis,Magnetic Resonance Imaging (MRI) of Heart,Chest Pain,nan,aspirin
+Hypertensive disease,Magnetic Resonance Imaging (MRI) of Heart,nan,nan,beta blocker
+Myocardial Infarction,Magnetic Resonance Imaging (MRI) of Heart,Chest Pain,Left ventricular wall motion,diltiazem
+Left ventricular systolic dysfunction,Magnetic Resonance Imaging (MRI) of Heart,Fatigue,Left ventricular wall motion,fraction
+Congestive heart failure,Magnetic Resonance Imaging (MRI) of Heart,Fatigue and Weakness,Left ventricular wall motion,diltiazem
+Heart failure,Nan,Pain and Weakness,nan,beta blocker 
+Hypercholesterolemia,Nan,Nan,nan,fraction 
+Kidney Failure Chronic,Biopsy,Pain and Weakness , Left ventricular wall motion , MEDICAL 
+Hypernatremia,NAN,NAN,left Ventriculr hypertrophy , NAN 
+Heart Diseases,Echocardiogram,Chest Pain,left Ventriculr hypertrophy , NAN 
+Left Ventricular Hypertrophy,Echocardiogram,Chest Pain,left Ventriculr hypertrophy , NAN 
+Right Ventricular Hypertrophy,Echocardiogram,Chest Pain,right Ventriculr hypertrophy , NAN 
+Functional disorder,NAN,Fatigue,Left ventricular wall motion,NAN
+Cicatrization,Magnetic Resonance Imaging (MRI) of Heart,Chest Pain,Left ventricular wall motion,diltiazem
+cardiac complication,Magnetic Resonance Imaging (MRI) of Heart,Chest Pain,Left ventricular wall motion,diltiazem
+Pathological Dilatation,Magnetic Resonance Imaging (MRI) of Heart,Chest Pain,Left ventricular wall motion,diltiazem

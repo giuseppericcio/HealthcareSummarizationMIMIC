@@ -1,0 +1,25 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Ischemic stroke,Magnetic Resonance Imaging,Chest Pain,HPV+,Therapeutic
+Cerebrovascular accident,Magnetic Resonance Imaging,Dizziness,HPV+,Digoxin
+Aneurysm,Magnetic Resonance Imaging,Pain,HPV+,Morphine
+Anterior Communicating Artery,Magnetic Resonance Imaging,,HPV+,
+Coronary Arteriosclerosis,Electrocardiography,Chest Pain,HPV+,Aspirin
+Congestive heart failure,Electrocardiography,Tiredness and Fatigue,HPV+,Beta blocker
+Hypertensive disease,,Fatigue and Dizziness,,Captopril
+Hyponatremia,,Nausea and vomiting,,Ondansetron
+Bacteremia,,Fever and Abdominal pain,,Ciprofloxacin
+Osteoporosis,,,HPV+,
+Gestational thyrotoxicosis,,,HPV+,
+Urinary tract infection,,,HPV+,
+Esophagitis,,,HPV+,
+Diabetes Mellitus,Electrocardiography,Chest Pain and Fatigue,Partial pressure CO2 result,Lidocaine 
+Insulin-Dependent Diabetes Mellitus,,,Partial pressure CO2 result,Lidocaine 
+Primary bacterial peritonitis,,,Partial pressure CO2 result,Lidocaine 
+Anemia,,,Partial pressure CO2 result,Fentanyl 
+Mental Depression,,,Partial pressure CO2 result,Oxycodone 
+Hypoxia,,,Partial pressure CO2 result,Oxycodone 
+Compression fracture of vertebral column,Magnetic Resonance Imaging,Pain in the back area of the body.,Partial pressure CO2 result,Oxycodone 
+Mitral Valve Insufficiency,Electrocardiography,Chest Pain,HPV+,Digoxin
+Pulmonary aspiration,Magnetic Resonance Imaging,,HPV+,
+Hemorrhage,Magnetic Resonance Imaging,Pain,HPV+,PRBCs
+Cardiocirculatory collapse,Electrocardiography,,HPV+,Inhibitor

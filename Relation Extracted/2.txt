@@ -1,0 +1,14 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Chronic disease,,Fatigue,Erythrocyte sedimentation rate result,
+Coronary Arteriosclerosis,Electrocardiography,Chest Pain,,Atorvastatin
+Hypertensive disease,,Headache,Erythrocyte sedimentation rate result,ACEI
+Transient Ischemic Attack,Electrocardiography,Focal neurological deficit,Erythrocyte sedimentation rate result,
+Anemia,,Fatigue,Erythrocyte sedimentation rate result,
+Pneumocystis jiroveci pneumonia,,Fever,Bacterial growth,Piperacillin-Tazobactam
+Osteomyelitis,,Bone pain,Bacterial growth,Patient
+Diabetes Mellitus,,,Erythrocyte sedimentation rate result,Insulin-Dependent
+Leukocytosis,,,Erythrocyte sedimentation rate result,
+Schizophrenia,,,Erythrocyte sedimentation rate result,Olanzapine
+Mental Depression,,,Erythrocyte sedimentation rate result,Donepezil
+Dementia,,,Erythrocyte sedimentation rate result,Memantine
+Hypoxia,,,,Etomidate

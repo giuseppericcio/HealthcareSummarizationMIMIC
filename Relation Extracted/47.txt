@@ -1,0 +1,13 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hypertension,B mode ultrasound,Elevated blood pressure,N/A,fraction
+Systolic,B mode ultrasound,Elevated systolic blood pressure,N/A,fraction
+Coronary Arteriosclerosis,Diagnosis,Chest pain,N/A,Coumadin
+Hypertensive disease,B mode ultrasound,Elevated blood pressure,N/A,fraction
+Gastroesophageal reflux disease,Diagnosis,Heartburn,N/A,medication
+Hypercholesterolemia,Laboratory test result,Elevated cholesterol levels in the blood,Lipid profile test result,statin
+Chronic Obstructive Airway Disease,Diagnosis,Dyspnea,Pulmonary function test result,N/A
+Asthma,Diagnosis,Wheezing,Pulmonary function test result,N/A
+Atrial Fibrillation,Electrocardiography,Irregular heartbeat,N/A,Coumadin/Aspirin/Verapamil 
+Artery Coronary Stenosis,B mode ultrasound,Chest pain/Narrowed coronary arteries on imaging studies,N/A,fraction 
+Neurodegenerative Disorders,Laboratory test result,Cognitive decline/Nerve damage on imaging studies,MRI/CT scan result,N/A 
+Sequela of injury,Laboratory test result/Patient history,Variety of symptoms depending on the injury site and severity of damage to the body part affected by the injury.,N/A,pain medication

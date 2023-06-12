@@ -1,0 +1,12 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Cerebrovascular accident,Magnetic Resonance Imaging (MRI),Hemiplegia,CT scan result,N/A
+Hypertensive disease,Blood pressure measurement,Headache,N/A,Clonidine
+Acute hepatitis,Liver function tests (LFTs),Jaundice,Bilirubin level,N-Acetylcysteine (NAC)
+Epilepsy,Electroencephalogram (EEG),Seizures,N/A,Oxycodone
+Parkinson Disease,Clinical examination,Tremors,N/A,Metronidazole
+Diabetes Mellitus,Glycated hemoglobin test (HbA1c),Polyuria,Blood glucose level,N/A
+Insulin-Dependent Diabetes Mellitus,Glycated hemoglobin test (HbA1c),Polyuria,Blood glucose level,N/A
+Bipolar Disorder,Clinical examination,Mood swings,N/A,Oxycodone
+Affective disorder,Clinical examination,Mood swings,N/A,Oxycodone
+Attention deficit hyperactivity disorder,Clinical examination,Hyperactivity and impulsivity,N/A,PCP 
+Hemorrhage,Computed Tomography (CT) scan,Sudden severe headache and vomiting,Hematocrit level,Oxycodone

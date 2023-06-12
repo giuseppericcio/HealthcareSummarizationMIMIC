@@ -1,0 +1,4 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Trigeminal Neuralgia,Diagnosis,Pain,,amitriptyline
+Multiple Sclerosis,Diagnosis,Tremor,,aspirin
+Pica Disease,Diagnosis,Nausea,,

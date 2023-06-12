@@ -1,0 +1,13 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Myocardial Infarction,X-Ray Computed Tomography,Chest Pain,Troponin level,Aspirin
+Coronary Arteriosclerosis,Plain chest X-ray,Chest Pain,,Atorvastatin
+Hypertensive disease,Electrocardiography,Dizziness,Blood pressure measurement,
+Left ventricular systolic dysfunction,X-Ray Computed Tomography,Dyspnea,Ejection fraction,Olanzapine
+Osteomyelitis,Plain chest X-ray,Fever,WBC count,
+Left Ventricular Hypertrophy,Electrocardiography,Chest Pain,,statin
+Schizophrenia,,,Positive symptoms,Olanzapine
+Mental Depression,,,Hamilton Depression Rating Scale score,
+Dysarthria,X-Ray Computed Tomography,Dysarthria,,Acetaminophen
+Dementia,X-Ray Computed Tomography,Memory loss,,Aspirin
+Hypoxia,Plain chest X-ray,Dyspnea,Pulse oximetry reading,
+Infection,,,Culture and sensitivity testing result,Antibiotics

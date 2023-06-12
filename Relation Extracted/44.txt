@@ -1,0 +1,19 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Diabetes Mellitus,Glycated hemoglobin test,Polyuria,Lactate level result,Aspirin
+Cerebrovascular accident,Computed tomography (CT) scan,Numbness,Lactate level result,midodrine
+Sepsis,Blood culture,Fever,Lactate level result,nan
+Chronic disease,nan,nan,Lactate level result,nan
+Congestive heart failure,Chest X-ray,Dyspnea,Lactate level result,antihypertensive
+Hypertensive disease,Blood pressure measurement,nan,Lactate level result,midodrine
+Peripheral Arterial Diseases,Doppler ultrasound,Pain in legs,Lactate level result,nan
+Abscess,Ultrasound,Fever and chills,Lactate level result,nan
+Pericardial effusion,Echocardiogram,Chest pain and shortness of breath,Lactate level result,midodrine
+Kidney Failure, Chronic,Blood urea nitrogen (BUN) and creatinine test,Fatigue and weakness,Lactate level result,nan
+Deep Vein Thrombosis,Ultrasound,Sudden swelling in the leg,Prolonged activated partial thromboplastin time (aPTT) test,result nan 
+Cardiac tamponade,Echocardiogram,Jugular venous distention and low blood pressure ,Lactate level result,midodrine 
+Hyperlipidemia,Fasting lipid profile test,Nausea and abdominal pain ,Lactate level result,atorvastatin 
+Bacteremia,Blood culture,Fever and chills ,Lactate level result,nan 
+Pleural effusion disorder,Chest X-ray,Chest pain and shortness of breath ,Lactate level result,nan 
+Diabetes Mellitus, Insulin-Dependent,Glycated hemoglobin test,Polyuria,Lactate level result,Aspirin 
+Leukocytosis,Complete blood count (CBC),Fever and fatigue ,Lactate level result,nan 
+Mental disorders,nan,nan,Lactate level result,nan

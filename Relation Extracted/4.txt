@@ -1,0 +1,3 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hypertensive disease,Endoscopy,nan,nan,Amitriptyline
+Hemorrhage,Endoscopy,nan,nan,PRBC

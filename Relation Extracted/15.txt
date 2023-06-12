@@ -1,0 +1,9 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hyponatremia,Electrocardiography,Illness (finding),Finding of protein level,
+Malnutrition,,,,N-acetylcyseteine
+Metabolic,,,,propofol
+Mental disorders,,,,fentanyl
+Mental Depression,,,,NAC
+Drug abuse,,,,alcoholic
+Alcohol abuse,,,,Alcoholic Intoxication, 
+Acidosis,,,,ASA

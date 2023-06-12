@@ -1,0 +1,12 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Diabetes,Electrocardiography,Chest Pain,White blood cell count laboratory result,
+Coronary Arteriosclerosis,Electrocardiography,Chest Pain,White blood cell count laboratory result,Nitroglycerin
+Hypertensive disease,Electrocardiography,Chest Pain,White blood cell count laboratory result,Nitroglycerin
+Heart failure,Electrocardiography,Dyspnea,White blood cell count laboratory result,
+Double coronary vessel disease,Electrocardiography,Chest Pain,White blood cell count laboratory result,Nitroglycerin
+Diabetes Mellitus Non-Insulin-Dependent,,,White blood cell count laboratory result,
+Atrial Fibrillation,Electrocardiography,Chest Pain,,Coumadin
+Mental Depression associated conditions cardiac complication,,,White blood cell count laboratory result,
+Infarction,Electrocardiography,Chest Pain,,Aspirin
+Obstruction,,,White blood cell count laboratory result,
+Thrombosis,,,White blood cell count laboratory result,Aspirin

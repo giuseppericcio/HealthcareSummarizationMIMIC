@@ -1,0 +1,9 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Communicable Diseases,Magnetic Resonance Imaging,Illness (finding),nan,Ciprofloxacin
+Abscess,Biopsy,Edema,nan,Ibuprofen
+Epilepsy,Computerised tomography guidance,Seizures,nan,Levetiracetam
+Diverticulitides,Plain chest X-ray,Chest Pain,nan,Ibuprofen
+Cyst,nan,Tremor,nan,Ibuprofen
+Diabetes Mellitus,Magnetic Resonance Imaging,Illness (finding),nan,Aceaminophen
+Insulin-Dependent,Magnetic Resonance Imaging,Illness (finding),nan,Aceaminophen
+Infiltration,Magnetic Resonance Imaging,Illness (finding),nan,Aceaminophen

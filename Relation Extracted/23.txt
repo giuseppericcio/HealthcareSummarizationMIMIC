@@ -1,0 +1,4 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Nervous system disorder,Magnetic Resonance Imaging,Headache,nan,nan
+Communicable Diseases,Blood test,Fever,White blood cell count result,nan
+Hypertensive disease,Blood pressure measurement,Hypertension,nan,Amlodipine

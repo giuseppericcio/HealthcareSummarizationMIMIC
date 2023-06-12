@@ -1,0 +1,7 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+nan,Electrocardiography,Agitation,,midazolam
+Mental Depression,Electrocardiography,,Serotonin levels,
+Alcoholic Intoxication,Electrocardiography,,Blood alcohol concentration (BAC),etoh
+Drug abuse,,,Urine drug screen,
+Eating Disorders,,,Body mass index (BMI),
+nan,,,,

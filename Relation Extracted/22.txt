@@ -1,0 +1,8 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hydrocephalus,Ventriculoperitoneal shunt placement,nan,nan,nan
+Retinal Diseases,Ophthalmoscopy,Blurred vision,nan,nan
+nan,nan,nan,nan,nan
+Disease Progression,Clinical assessment,Worsening symptoms,MRI result,nan
+Bradycardia,Electrocardiography,Fatigue and weakness,Blood pressure measurement result,Pacemaker
+Hemorrhage,Clinical assessment,Sudden headache and nausea,Cerebral angiography result,Hemostatic agent
+Intraventricular,Clinical assessment,Nausea and vomiting,MRI result,Dexamethasone

@@ -1,0 +1,13 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hypertensive disease,Magnetic Resonance Imaging,Illness (finding),Blood pressure measurement result,
+Abscess,Magnetic Resonance Imaging,Pain,Culture of pus specimen,
+Hypercholesterolemia,Magnetic Resonance Imaging,,Cholesterol level test result,Simvastatin
+Asthma,Magnetic Resonance Imaging,Wheezing,Pulmonary function test result,
+Aortic Aneurysm,Magnetic Resonance Imaging,Chest Pain,Aneurysm size measurement result,
+Abdominal,Magnetic Resonance Imaging,Pain,Ultrasound imaging of abdomen,
+Diabetes Mellitus,Insulin-Dependent,Blood glucose monitoring,Fasting blood glucose level test result,
+Attention deficit hyperactivity disorder,Diagnosis,Lack of concentration,,Phenytoin
+Post-Traumatic Stress Disorder,Diagnosis,Nightmares,,Ondansetron
+Stenosis,Magnetic Resonance Imaging,Pain,Doppler ultrasound imaging of affected area,
+Urinary Incontinence,Urodynamic testing,Urinary incontinence symptom score,Urine culture and sensitivity testing,
+complication postoperative,Magnetic Resonance Imaging,Pain,Culture of wound discharge specimen,Acetaminophen

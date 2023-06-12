@@ -1,0 +1,8 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Deep Vein Thrombosis,Biopsy,nan,nan,nan
+Epilepsy,nan,nan,nan,Phenytoin; Levetiracetam
+Diverticulitides,Biopsy,nan,nan,nan
+Asthma,nan,nan,nan,Acetaminophen
+Cyst,Biopsy,nan,nan,nan
+Diabetes Mellitus,Glycated hemoglobin test (HbA1c),nan,HbA1c result; Insulin result,Insulin-Dependent
+nan,Biopsy,Seizures,Laboratory test for epilepsy (EEG); Blood tests for electrolytes and glucose levels,Temozolomide

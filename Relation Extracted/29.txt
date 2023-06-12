@@ -1,0 +1,4 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Asthma,Pulmonary Function Test,Wheezing,nan,nan
+Heart valve disease,Echocardiography,Poor exercise tolerance,nan,nan
+nan,nan,Pain,nan,Gabapentin

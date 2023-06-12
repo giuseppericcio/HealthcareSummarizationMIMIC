@@ -1,0 +1,15 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hypertension,Echocardiography,Headache,,captopril
+Cardiomyopathies,Echocardiography,Chest Pain,,digoxin
+Congestive heart failure,Echocardiography,Edema,,spironolactone
+Neutropenia,Bone marrow biopsy,Fever,,metronidazole
+Blood clot in portal vein,Scanning,Abdominal Pain,,morphine
+Heart failure,Echocardiography,Respiratory distress,,spironolactone
+Malnutrition,Diagnosis,Fatigue,,nan
+Pleural effusion disorder,X-ray,Illness (finding),Pleural fluid analysis result,nan
+Diabetes Mellitus,P palpation,Pain,Blood glucose level,result of glycosylated hemoglobin test,nan 
+Tricuspid Valve Insufficiency,Echocardiography,Chest Pain,,digoxin 
+Primary bacterial peritonitis,Diagnostics procedure for ascites diagnosis,Absence of bowel sounds,Absolute neutrophil count,result of ascitic fluid culture and sensitivity testing,nan 
+Endocarditis,Echocardiography,Fever,Blood culture result,ciprofloxacin 
+Depression postnatal,P palpation,Symptoms,Mental status examination result,nan 
+Anxiety,P palpation,Symptoms,Mental status examination result,nan

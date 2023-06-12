@@ -1,0 +1,14 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Virus Diseases,Endoscopic exploration of larynx,Throat irritation,HPV+,,
+Hypertensive disease,,,,Verapamil,
+Gastroesophageal reflux disease,Endoscopic exploration of larynx,Pain,,,
+Respiratory Failure,,,,,
+Hyperlipidemia,,,,Atorvastatin,
+Alzheimer's Disease,,,,dexamethasone,
+Urinary tract infection,,,,Ciprofloxacin,
+Atrial Fibrillation,Electrocardiography,,HPV+,Coumadin,
+Peripheral Vascular Diseases,,,,verapamil,
+Anxiety state,,,,verapemil
+Infection,,,HPV+,Ciprofloxacin,
+Hematoma,,,HPV+,Aspirin
+Subdural,,,HPV+,,

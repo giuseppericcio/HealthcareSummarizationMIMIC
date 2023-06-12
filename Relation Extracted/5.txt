@@ -1,0 +1,4 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hypertensive disease,,,,Medical
+Mental Depression,,,,Medical
+Hemorrhage,packed red blood cell,Abdominal Pain,,

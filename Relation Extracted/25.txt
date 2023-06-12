@@ -1,0 +1,8 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Febrile Neutropenia,Bone Marrow Biopsy,Fever,nan,nan
+Peripheral Neuropathy,nan,Pain,nan,nan
+Sepsis,nan,Fever,nan,pressor
+Neutropenia,Bone Marrow Biopsy,nan,nan,Medical
+Bacterial Infections,nan,Coughing,N/A,N/A
+Bone Lesion,Bone Marrow Biopsy,Pain,N/A,N/A
+Acute Q fever,N/A,Sore Throat,N/A,N/A

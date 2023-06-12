@@ -1,0 +1,10 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hypertensive disease,Blood pressure measurement,Headache,,,
+Transient Ischemic Attack,Electrocardiography,Chest Pain,Partial pressure CO2 result,morphine
+Coronary Arteriosclerosis,Echocardiogram,Chest Pain,,,
+Urinary tract infection,Urinalysis,Painful urination,Nitrite and leukocyte esterase positive,
+Schizophrenia,Mental status examination,Hallucinations,,,
+Mental Depression,Patient Health Questionnaire (PHQ-9),Depressed mood,,morphine
+Dementia,Mental status examination,Memory loss,,,
+Hypoxia,Pulse oximetry,Dyspnea,Oxygen saturation level below 90%,
+Bradycardia,Electrocardiography,Fatigue,,,

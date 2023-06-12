@@ -1,0 +1,10 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Congestive heart failure,Biopsy,,HPV+,
+Coronary Arteriosclerosis,Biopsy,,HPV+,
+Hypertensive disease,Biopsy,,HPV+,
+Osteoporosis,Biopsy,,HPV+,
+Anemia,Biopsy,,HPV+,
+Mental Depression,Biopsy,,HPV+,
+Hemorrhage,Biopsy,,HPV+,
+Blood Clot,Biopsy,,HPV+,
+Compression fracture of vertebral column,Biopsy,,HPV+,

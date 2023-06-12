@@ -1,0 +1,6 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Diabetes Mellitus, Insulin-Dependent,Diagnosis,Polyuria,Persistent hyperglycemia,nan
+Diabetes Mellitus, Non-Insulin-Dependent,Diagnosis,Polyuria,Persistent hyperglycemia,nan
+Hypercholesterolemia,nan,Elevated cholesterol levels,nan,Aspirin
+Hypertensive disease,Diagnosis,Hypertension,Elevated blood pressure levels,antihypertensive,nan
+Pulmonary Hypertension,Echocardiography,Dyspnea,Elevated pulmonary artery pressure levels,medical,nan

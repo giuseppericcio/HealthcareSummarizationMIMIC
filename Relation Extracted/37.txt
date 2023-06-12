@@ -1,0 +1,12 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Coronary Arteriosclerosis,Angiography,Chest Pain,,Simvastatin
+Hypertensive disease,Blood Pressure Measurement,,Blood pressure result,
+Hypercholesterolemia,Lipid profile test,,Cholesterol level result,Simvastatin
+Asthma,Pulmonary Function Test,Wheezing,,Morphine
+Aortic Aneurysm,Chest X-ray,Chest Pain,,PRBCs
+Abdominal,Abdominal ultrasound,Abdominal Pain,,Morphine
+Pleural effusion disorder,Thoracentesis,Dyspnea,Pleural fluid analysis,
+Artery coronary stenosis,Echocardiogram,Chest Pain,,Simvastatin
+Attention deficit hyperactivity disorder,Behavioral assessment,Hyperactivity and Impulsivity,, 
+Post-Traumatic Stress Disorder,Mental health assessment,Trauma-related distress and anxiety symptoms,Mental health evaluation,
+Stenosis,Vascular imaging,Pain in the affected area,,

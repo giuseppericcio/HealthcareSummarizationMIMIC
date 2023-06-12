@@ -1,0 +1,11 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hiatal Hernia,nan,Illness (finding),nan,PPIs
+Congestive heart failure,nan,Illness (finding),nan,blocker
+Hypertensive disease,nan,Illness (finding),nan,blocker
+Gastroesophageal reflux disease,nan,Illness (finding),nan,PPIs
+Respiratory Failure,nan,Illness (finding),nan,nan
+Hypercholesterolemia,nan,Illness (finding),nan,Simvastatin
+Deglutition Disorders,Videofluoroscopic swallowing study,Dysphagia,nan,nan
+Hypothyroidism,Thyroid function tests,Fatigue,Abnormal TSH result,Levothyroxine
+Obesity,nan,Illness (finding),nan,nan
+Diabetes Mellitus,Glycated hemoglobin test,Polydipsia and polyuria,Abnormal glucose tolerance test,Metformin

@@ -1,0 +1,6 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Cardiomyopathies,Electrophysiology studies,Fatigue,nan,nan
+Hypertensive disease,Plain chest X-ray,Pain,nan,Captopril
+Pleural effusion disorder,Plain chest X-ray,nan,nan,nan
+Atrial Fibrillation,Electrophysiology studies,nan,nan,Coumadin
+Erythema,nan,nan,nan,Aspirin

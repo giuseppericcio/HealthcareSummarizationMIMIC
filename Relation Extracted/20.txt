@@ -1,0 +1,6 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Chronic lung disease,Pulmonary function test,Dyspnea,,caffeine
+Hydrocephalus,CT scan,Headache,,nan
+Hemorrhage,Cerebral angiography,Headache,,nan
+Intraventricular cerebellar bleed,MRI,Nausea and vomiting,,nan
+Premature Birth,Blood gas analysis,Apnea,Blood gas levels,sugar

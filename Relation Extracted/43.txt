@@ -1,0 +1,16 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Diabetes Mellitus,nan,Polyuria,nan,nan
+Cerebrovascular accident,Echocardiography,Wheezing,nan,Aspirin
+Sepsis,nan,Fever,Blood culture positive for bacteria,nan
+Congestive heart failure,Echocardiography,Dyspnea on exertion,BNP elevated,Furosemide
+Hypertensive disease,Echocardiography,Hypertension,nan,Lisinopril
+Peripheral Arterial Diseases,Duplex ultrasound,Claudication distance reduced,Ankle-brachial index decreased,Cilostazol
+Abscess,Diagnostic pericardiocentesis,Fever,Pus culture positive for bacteria,Vancomycin
+Acute gastroenteritis,nan,Nausea and vomiting,Stool culture positive for bacteria/norovirus/rotavirus/norovirus antigen test,Ondansetron 
+Kidney Failure,Abdominal ultrasound,Oliguria,Urea and creatinine increased,Furosemide 
+Chronic Kidney Disease,Echocardiography,Hypertension,BNP elevated,Amlodipine 
+Deep Vein Thrombosis,Doppler ultrasound,Pain and swelling in the leg,D-dimer increased,Rivaroxaban 
+Cardiac tamponade,Echocardiography,Hypotension,Pulsus paradoxus present,Nitroglycerin 
+Hyperlipidemia,Lipid profile test,xanthomas present in physical examination,LDL cholesterol increased,SImvastatin 
+Bacteremia,blood culture test,Fever,Blood culture positive for bacteria,Vancomycin 
+Hemorrhage,Cranial CT Scan,Numbness of limbs,Cranial CT scan shows intracranial hemorrhage,Mannitol

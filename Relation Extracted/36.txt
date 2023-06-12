@@ -1,0 +1,11 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Diabetes Mellitus,,Illness (finding),White blood cell count laboratory result,
+Coronary Arteriosclerosis,Electrocardiography,Chest Pain,,Aspirin
+Hypertensive disease,,Back discomfort,White blood cell count laboratory result,
+Heart failure,,Dyspnea,White blood cell count laboratory result,Nitroglycerin
+Double coronary vessel disease,Electrocardiography,Chest Pain,,Coumadin
+Atrial Fibrillation,Electrocardiography,Dyspnea,,Aspirin
+Mental Depression,,,White blood cell count laboratory result,
+Infarction,Electrocardiography,Chest Pain,,Nitroglycerin
+Obstruction,,,White blood cell count laboratory result,
+Thrombosis,Electrocardiography,Chest Pain,White blood cell count laboratory result,stain

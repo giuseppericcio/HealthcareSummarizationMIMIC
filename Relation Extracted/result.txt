@@ -1,0 +1,468 @@
+Subject ID,Note ID,Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+27431,722,Myocardial Infarction,X-Ray Computed Tomography,Chest Pain,Troponin level,Aspirin
+27431,722,Coronary Arteriosclerosis,Plain chest X-ray,Chest Pain,,Atorvastatin
+27431,722,Hypertensive disease,Electrocardiography,Dizziness,Blood pressure measurement,
+27431,722,Left ventricular systolic dysfunction,X-Ray Computed Tomography,Dyspnea,Ejection fraction,Olanzapine
+27431,722,Osteomyelitis,Plain chest X-ray,Fever,WBC count,
+27431,722,Left Ventricular Hypertrophy,Electrocardiography,Chest Pain,,statin
+27431,722,Schizophrenia,,,Positive symptoms,Olanzapine
+27431,722,Mental Depression,,,Hamilton Depression Rating Scale score,
+27431,722,Dysarthria,X-Ray Computed Tomography,Dysarthria,,Acetaminophen
+27431,722,Dementia,X-Ray Computed Tomography,Memory loss,,Aspirin
+27431,722,Hypoxia,Plain chest X-ray,Dyspnea,Pulse oximetry reading,
+27431,722,Infection,,,Culture and sensitivity testing result,Antibiotics
+27431,723,Chronic disease,,Fatigue,Erythrocyte sedimentation rate result,
+27431,723,Coronary Arteriosclerosis,Electrocardiography,Chest Pain,,Atorvastatin
+27431,723,Hypertensive disease,,Headache,Erythrocyte sedimentation rate result,ACEI
+27431,723,Transient Ischemic Attack,Electrocardiography,Focal neurological deficit,Erythrocyte sedimentation rate result,
+27431,723,Anemia,,Fatigue,Erythrocyte sedimentation rate result,
+27431,723,Pneumocystis jiroveci pneumonia,,Fever,Bacterial growth,Piperacillin-Tazobactam
+27431,723,Osteomyelitis,,Bone pain,Bacterial growth,Patient
+27431,723,Diabetes Mellitus,,,Erythrocyte sedimentation rate result,Insulin-Dependent
+27431,723,Leukocytosis,,,Erythrocyte sedimentation rate result,
+27431,723,Schizophrenia,,,Erythrocyte sedimentation rate result,Olanzapine
+27431,723,Mental Depression,,,Erythrocyte sedimentation rate result,Donepezil
+27431,723,Dementia,,,Erythrocyte sedimentation rate result,Memantine
+27431,723,Hypoxia,,,,Etomidate
+27431,724,Hypertensive disease,Blood pressure measurement,Headache,,,
+27431,724,Transient Ischemic Attack,Electrocardiography,Chest Pain,Partial pressure CO2 result,morphine
+27431,724,Coronary Arteriosclerosis,Echocardiogram,Chest Pain,,,
+27431,724,Urinary tract infection,Urinalysis,Painful urination,Nitrite and leukocyte esterase positive,
+27431,724,Schizophrenia,Mental status examination,Hallucinations,,,
+27431,724,Mental Depression,Patient Health Questionnaire (PHQ-9),Depressed mood,,morphine
+27431,724,Dementia,Mental status examination,Memory loss,,,
+27431,724,Hypoxia,Pulse oximetry,Dyspnea,Oxygen saturation level below 90%,
+27431,724,Bradycardia,Electrocardiography,Fatigue,,,
+21323,1907,Hypertensive disease,Endoscopy,nan,nan,Amitriptyline
+21323,1907,Hemorrhage,Endoscopy,nan,nan,PRBC
+21323,1905,Hypertensive disease,,,,Medical
+21323,1905,Mental Depression,,,,Medical
+21323,1905,Hemorrhage,packed red blood cell,Abdominal Pain,,
+21323,1906,Hypertensive disease,Angiogram,,Blood pressure measurement,
+21323,1906,Pneumonia,,Chest X-ray,Culture and sensitivity testing,Antibiotics
+21323,1906,Mental Depression,,Depressed mood,Blood test,Antidepressants
+21323,1906,nan,,,,
+21323,1906,
+30155,5956,Cerebrovascular accident,Magnetic Resonance Imaging,Trouble speaking,Blood pressure test result,
+30155,5956,Coronary Arteriosclerosis,Diagnosis,Chest pain,Cholesterol level test result,
+30155,5956,Cerebral Infarction,Magnetic Resonance Imaging,Numbness on one side of the body,Blood glucose level test result,
+30155,5956,Hyperthyroidism,Thyroid function tests,Rapid heartbeat,Thyroid hormone level test result,
+30155,5956,Central Retinal Arterial Occlusion,Ophthalmoscopy,Vision loss,Eye pressure test result,
+30155,5956,Gestational thyrotoxicosis,Thyroid function tests,Rapid heartbeat,Thyroid hormone level test result,
+30155,5956,Urinary tract infection,Urinalysis,Painful urination,Urine culture and sensitivity test result,
+30155,5956,Trigeminal Neuralgia,Diagnosis,Facial pain,MRI with contrast dye
+30155,5956,Artery coronary stenosis,Echocardiography,Chest pain,Ejection fraction (EF) test result,Nitroglycerin
+30155,5956,Multiple Sclerosis,MRI with contrast dye,Numbness and tingling in limbs,Cerebrospinal fluid analysis,methylprednisolone
+30155,5956,Pica Disease,Blood tests,Iron deficiency,Complete blood count (CBC) test results,Iron supplements
+30155,5956,Hypoventilation,Pulmonary function tests,Dyspnea,Blood gas analysis,morphine
+30155,5956,Infarction,ECG,Chest pain,Troponin levels,morphine
+20426,7321,Hiatal Hernia,Endoscopy (procedure),Nausea,Finding of protein level,nan
+20426,7321,Coronary Arteriosclerosis,Ejection fraction (procedure),Chest Pain,Finding of protein level,Coumadin
+20426,7321,Hypertensive disease,nan,Illness (finding),Finding of protein level,Aspirin
+20426,7321,Heart failure,Ejection fraction (procedure),Chest Pain,Finding of protein level,packed red blood cell
+20426,7321,Osteoporosis,nan,nan,Finding of protein level,nan
+20426,7321,Cardiovascular Diseases,nan,Illness (finding),Finding of protein level,nan
+20426,7321,Hemorrhage,nan,Illness (finding),Finding of protein level,nan
+20426,7321,associated conditions,nan,Illness (finding),Finding of protein level,nan
+20426,7321,Hematoma,nan,Illness (finding),Finding of protein level,nan
+20426,7321,systolic dysfunction,Ejection fraction (procedure),Chest Pain,Finding of protein level,Atorvastatin
+20426,7322,Congestive heart failure,Biopsy,,HPV+,
+20426,7322,Coronary Arteriosclerosis,Biopsy,,HPV+,
+20426,7322,Hypertensive disease,Biopsy,,HPV+,
+20426,7322,Osteoporosis,Biopsy,,HPV+,
+20426,7322,Anemia,Biopsy,,HPV+,
+20426,7322,Mental Depression,Biopsy,,HPV+,
+20426,7322,Hemorrhage,Biopsy,,HPV+,
+20426,7322,Blood Clot,Biopsy,,HPV+,
+20426,7322,Compression fracture of vertebral column,Biopsy,,HPV+,
+20426,7323,Ischemic stroke,Magnetic Resonance Imaging,Chest Pain,HPV+,Therapeutic
+20426,7323,Cerebrovascular accident,Magnetic Resonance Imaging,Dizziness,HPV+,Digoxin
+20426,7323,Aneurysm,Magnetic Resonance Imaging,Pain,HPV+,Morphine
+20426,7323,Anterior Communicating Artery,Magnetic Resonance Imaging,,HPV+,
+20426,7323,Coronary Arteriosclerosis,Electrocardiography,Chest Pain,HPV+,Aspirin
+20426,7323,Congestive heart failure,Electrocardiography,Tiredness and Fatigue,HPV+,Beta blocker
+20426,7323,Hypertensive disease,,Fatigue and Dizziness,,Captopril
+20426,7323,Hyponatremia,,Nausea and vomiting,,Ondansetron
+20426,7323,Bacteremia,,Fever and Abdominal pain,,Ciprofloxacin
+20426,7323,Osteoporosis,,,HPV+,
+20426,7323,Gestational thyrotoxicosis,,,HPV+,
+20426,7323,Urinary tract infection,,,HPV+,
+20426,7323,Esophagitis,,,HPV+,
+20426,7323,Diabetes Mellitus,Electrocardiography,Chest Pain and Fatigue,Partial pressure CO2 result,Lidocaine 
+20426,7323,Insulin-Dependent Diabetes Mellitus,,,Partial pressure CO2 result,Lidocaine 
+20426,7323,Primary bacterial peritonitis,,,Partial pressure CO2 result,Lidocaine 
+20426,7323,Anemia,,,Partial pressure CO2 result,Fentanyl 
+20426,7323,Mental Depression,,,Partial pressure CO2 result,Oxycodone 
+20426,7323,Hypoxia,,,Partial pressure CO2 result,Oxycodone 
+20426,7323,Compression fracture of vertebral column,Magnetic Resonance Imaging,Pain in the back area of the body.,Partial pressure CO2 result,Oxycodone 
+20426,7323,Mitral Valve Insufficiency,Electrocardiography,Chest Pain,HPV+,Digoxin
+20426,7323,Pulmonary aspiration,Magnetic Resonance Imaging,,HPV+,
+20426,7323,Hemorrhage,Magnetic Resonance Imaging,Pain,HPV+,PRBCs
+20426,7323,Cardiocirculatory collapse,Electrocardiography,,HPV+,Inhibitor
+30155,5955,Trigeminal Neuralgia,Diagnosis,Pain,,amitriptyline
+30155,5955,Multiple Sclerosis,Diagnosis,Tremor,,aspirin
+30155,5955,Pica Disease,Diagnosis,Nausea,,
+30505,7038,Acquired Community Pneumonia,Chest X-ray,Coughing,,Antibiotics
+30505,7038,Coronary Arteriosclerosis,Electrocardiography,Chest Pain,Blood cholesterol level test result,ASA
+30505,7038,Hypertensive Disease,Blood pressure measurement,,Blood pressure measurement result,Antihypertensive
+30505,7038,Heart Failure,Echocardiography,Dyspnea,,Diuretics
+30505,7038,Chronic Obstructive Airway Disease,Pulmonary function tests,Dyspnea,Pulmonary function test result,Bronchodilators
+30505,7038,Ischemic Cardiomyopathy,Echocardiography,Dyspnea,,Beta blockers
+30505,7038,Hyperlipidemia,Blood cholesterol level test,,Blood cholesterol level test result,Simvastatin
+30505,7038,Osteoporosis,Bone density scan,Fragility fracture history,Bone density scan result,Vitamin D and calcium supplements
+30505,7038,Atrial Fibrillation,Electrocardiography,Palpitations,,Coumadin
+30505,7038,Poliomyelitis,Muscle biopsy,Muscle weakness,Muscle biopsy result,Symptomatic treatment only 
+30505,7038,Pneumonia,Chest X-ray,Coughing,Fever,Antibiotics 
+30505,7038,Mental Depression,Mental status examination,Sadness and hopelessness,,Citalopram 
+30505,7038,Hypoxia,Pulse oximetry,Dyspnea,Pulse oximetry reading,Oxygen therapy 
+30505,7038,Pulmonary Aspiration,Chest X-ray,Coughing,Fever,Antibiotics
+30505,7039,Coronary Arteriosclerosis,Plain chest X-ray,Chest Pain,nan,nan
+30505,7039,Chronic Obstructive Airway Disease,Plain chest X-ray,Coughing,nan,Patient
+30505,7039,Hyperlipidemia,Plain chest X-ray,nan,nan,PND
+30505,7039,Ischemic cardiomyopathy,Plain chest X-ray,Chest Pain,nan,Patient
+30505,7039,Leukocytosis,nan,Fever,WBC count,nan
+30505,7039,Osteoporosis,Plain chest X-ray,Weakness,Bone density test,nan
+30505,7039,Consumption,Plain chest X-ray,Coughing,Sputum culture,nan
+30505,7039,Pulmonary,Atrial Fibrillation,Echocardiography,Dyspnea,BNP level,digoxin 
+30505,7039,Poliomyelitis,Nerve conduction studies,Muscle weakness,Viral culture,nan
+30505,7039,Pneumonia,Plain chest X-ray,Fever,Sputum culture,Antibiotics 
+30505,7039,Respiratory Insufficiency,Blood gas analysis,Dyspnea,Oxygen saturation result,Oxygen therapy 
+30505,7039,Urinary Incontinence,Urodynamic testing,Urgency of micturition,Urine analysis,Anticholinergics 
+30505,7039,Bradycardia,Holter monitor,Chest Pain,EKG result,Pacemaker implantation
+31044,11179,nan,Electrocardiography,Agitation,,midazolam
+31044,11179,Mental Depression,Electrocardiography,,Serotonin levels,
+31044,11179,Alcoholic Intoxication,Electrocardiography,,Blood alcohol concentration (BAC),etoh
+31044,11179,Drug abuse,,,Urine drug screen,
+31044,11179,Eating Disorders,,,Body mass index (BMI),
+31044,11179,nan,,,,
+31044,11179,
+31044,11180,Hyponatremia,Electrocardiography,Illness (finding),Finding of protein level,
+31044,11180,Malnutrition,,,,N-acetylcyseteine
+31044,11180,Metabolic,,,,propofol
+31044,11180,Mental disorders,,,,fentanyl
+31044,11180,Mental Depression,,,,NAC
+31044,11180,Drug abuse,,,,alcoholic
+31044,11180,Alcohol abuse,,,,Alcoholic Intoxication, 
+31044,11180,Acidosis,,,,ASA
+25203,15585,Cerebrovascular accident,Ejection fraction (procedure),Pain,,Coumadin
+25203,15585,Heart failure,Electrocardiography,Chest Pain,Ejection fraction result,diuretic
+25203,15585,Peripheral Vascular Diseases,ANGIOCARDIOGR,burn chest,,Aspirin
+25203,15585,Diabetes Mellitus,Insulin-Dependent,,,Aspirin
+25203,15585,Diabetes Mellitus,Non-Insulin-Dependent,,,Aspirin
+25203,15585,Hypertensive disease,Ejection fraction (procedure),Chest Pain,,beta blocker
+25203,15585,Deglutition Disorders,,Pain,,Diltiazem
+25203,15585,Hematuria,,Pain,,Spironolactone
+25203,15585,Chronic Kidney Insufficiency,,Pain,left ventricular wall motion,
+25203,15585,Myocardial Infarction,Stress Test,Chest Pain,left ventricular wall motion,Nitroglycerin 
+25203,15585,Myocardial Ischemia,Ejection fraction (procedure),Chest Pain,left ventricular wall motion,Nitroglycerin 
+25203,15585,Hypothyroidism,,,Partial pressure CO2 result,
+25203,15585,Gastroesophageal reflux disease,,,Partial pressure CO2 result,
+25203,15585,Hypercholesterolemia,,,left ventricular wall motion,Diltiazem 
+25203,15585,Gout,,,,Terazosin 
+25203,15585,Atrial Fibrillation,Cardiac electrophysiological study,Chest Pain,left ventricular wall motion,beta blocker 
+25203,15585,artery coronary stenosis,Ejection fraction (procedure),Chest Pain,left ventricular wall motion,Nitroglycerin 
+25203,15585,Left Ventricular Hypertrophy,Ejection fraction (procedure),Chest Pain,left ventricular wall motion,beta blocker 
+25203,15585,Mental Retardation,,,,Aspirin  
+25203,15585,Mitral Valve Insufficiency,Ejection fraction (procedure),Chest Pain,left ventricular wall motion,beta blocker  
+25203,15585,Dressler beats,Electrocardiography,Chest Pain,left ventricular wall motion,Aspirin
+25203,15586,nan, nan, nan, nan, nan
+303,12015,Hypertensive disease,Plain x-ray,Back Pain,nan,nan
+303,12015,nan,Plain x-ray,Pain,nan,nan
+303,12015,nan,Plain x-ray,Malaise,nan,nan
+303,12015,Disease Progression,Plain x-ray,Symptoms,nan,nan
+303,12016,Cerebrovascular accident,Magnetic Resonance Imaging (MRI),Hemiplegia,CT scan result,N/A
+303,12016,Hypertensive disease,Blood pressure measurement,Headache,N/A,Clonidine
+303,12016,Acute hepatitis,Liver function tests (LFTs),Jaundice,Bilirubin level,N-Acetylcysteine (NAC)
+303,12016,Epilepsy,Electroencephalogram (EEG),Seizures,N/A,Oxycodone
+303,12016,Parkinson Disease,Clinical examination,Tremors,N/A,Metronidazole
+303,12016,Diabetes Mellitus,Glycated hemoglobin test (HbA1c),Polyuria,Blood glucose level,N/A
+303,12016,Insulin-Dependent Diabetes Mellitus,Glycated hemoglobin test (HbA1c),Polyuria,Blood glucose level,N/A
+303,12016,Bipolar Disorder,Clinical examination,Mood swings,N/A,Oxycodone
+303,12016,Affective disorder,Clinical examination,Mood swings,N/A,Oxycodone
+303,12016,Attention deficit hyperactivity disorder,Clinical examination,Hyperactivity and impulsivity,N/A,PCP 
+303,12016,Hemorrhage,Computed Tomography (CT) scan,Sudden severe headache and vomiting,Hematocrit level,Oxycodone
+17960,11656,Chronic lung disease,Pulmonary function test,Dyspnea,,caffeine
+17960,11656,Hydrocephalus,CT scan,Headache,,nan
+17960,11656,Hemorrhage,Cerebral angiography,Headache,,nan
+17960,11656,Intraventricular cerebellar bleed,MRI,Nausea and vomiting,,nan
+17960,11656,Premature Birth,Blood gas analysis,Apnea,Blood gas levels,sugar
+17960,11657,Ventricular dilatation (disorder),Plain chest X-ray,,Glucose level - finding,
+17960,11657,Communicable Diseases,Diagnostic tests,,Glucose level - finding,
+17960,11657,Hypoglycemia,,,Glucose level - finding,
+17960,11657,Cerebral Infarction,Diagnostic tests,,Glucose level - finding,
+17960,11657,nan,,,, 
+17960,11657,Cerebellar bleed,Diagnostic tests,,Glucose level - finding,
+17960,11657,Acidosis,,,Glucose level - finding,
+17960,11657,Bradycardia,Diagnostic tests,,Glucose level - finding,
+17960,11657,Hemorrhage,,,Glucose level - finding,packed red blood cell
+17960,11657,Intraventricular Hemorrhage (IVH),Diagnostic tests,,Glucose level - finding,packed red blood cell
+17960,11657,Atelectasis,Plain chest X-ray,,Glucose level - finding, 
+17960,11657,Apnea,,,,caffeine
+17960,11658,Hydrocephalus,Ventriculoperitoneal shunt placement,nan,nan,nan
+17960,11658,Retinal Diseases,Ophthalmoscopy,Blurred vision,nan,nan
+17960,11658,nan,nan,nan,nan,nan
+17960,11658,Disease Progression,Clinical assessment,Worsening symptoms,MRI result,nan
+17960,11658,Bradycardia,Electrocardiography,Fatigue and weakness,Blood pressure measurement result,Pacemaker
+17960,11658,Hemorrhage,Clinical assessment,Sudden headache and nausea,Cerebral angiography result,Hemostatic agent
+17960,11658,Intraventricular,Clinical assessment,Nausea and vomiting,MRI result,Dexamethasone
+17960,11659,Nervous system disorder,Magnetic Resonance Imaging,Headache,nan,nan
+17960,11659,Communicable Diseases,Blood test,Fever,White blood cell count result,nan
+17960,11659,Hypertensive disease,Blood pressure measurement,Hypertension,nan,Amlodipine
+22353,17827,Kidney Diseases,Biopsy,Pain,Left ventricular wall motion,fraction
+22353,17827,Diabetes Mellitus,Chest CT,Fatigue,Left ventricular wall motion,MEDICAL
+22353,17827,Diabetes,nan,nan,Left ventricular wall motion,beta blocker
+22353,17827,Cardiomyopathies,Magnetic Resonance Imaging (MRI) of Heart,Chest Pain,Left ventricular wall motion,diltiazem
+22353,17827,Kidney Failure, Acute,Biopsy,Pain,Left ventricular wall motion,fraction
+22353,17827,Coronary Arteriosclerosis,Magnetic Resonance Imaging (MRI) of Heart,Chest Pain,nan,aspirin
+22353,17827,Hypertensive disease,Magnetic Resonance Imaging (MRI) of Heart,nan,nan,beta blocker
+22353,17827,Myocardial Infarction,Magnetic Resonance Imaging (MRI) of Heart,Chest Pain,Left ventricular wall motion,diltiazem
+22353,17827,Left ventricular systolic dysfunction,Magnetic Resonance Imaging (MRI) of Heart,Fatigue,Left ventricular wall motion,fraction
+22353,17827,Congestive heart failure,Magnetic Resonance Imaging (MRI) of Heart,Fatigue and Weakness,Left ventricular wall motion,diltiazem
+22353,17827,Heart failure,Nan,Pain and Weakness,nan,beta blocker 
+22353,17827,Hypercholesterolemia,Nan,Nan,nan,fraction 
+22353,17827,Kidney Failure Chronic,Biopsy,Pain and Weakness , Left ventricular wall motion , MEDICAL 
+22353,17827,Hypernatremia,NAN,NAN,left Ventriculr hypertrophy , NAN 
+22353,17827,Heart Diseases,Echocardiogram,Chest Pain,left Ventriculr hypertrophy , NAN 
+22353,17827,Left Ventricular Hypertrophy,Echocardiogram,Chest Pain,left Ventriculr hypertrophy , NAN 
+22353,17827,Right Ventricular Hypertrophy,Echocardiogram,Chest Pain,right Ventriculr hypertrophy , NAN 
+22353,17827,Functional disorder,NAN,Fatigue,Left ventricular wall motion,NAN
+22353,17827,Cicatrization,Magnetic Resonance Imaging (MRI) of Heart,Chest Pain,Left ventricular wall motion,diltiazem
+22353,17827,cardiac complication,Magnetic Resonance Imaging (MRI) of Heart,Chest Pain,Left ventricular wall motion,diltiazem
+22353,17827,Pathological Dilatation,Magnetic Resonance Imaging (MRI) of Heart,Chest Pain,Left ventricular wall motion,diltiazem
+14432,20207,Febrile Neutropenia,Bone Marrow Biopsy,Fever,nan,nan
+14432,20207,Peripheral Neuropathy,nan,Pain,nan,nan
+14432,20207,Sepsis,nan,Fever,nan,pressor
+14432,20207,Neutropenia,Bone Marrow Biopsy,nan,nan,Medical
+14432,20207,Bacterial Infections,nan,Coughing,N/A,N/A
+14432,20207,Bone Lesion,Bone Marrow Biopsy,Pain,N/A,N/A
+14432,20207,Acute Q fever,N/A,Sore Throat,N/A,N/A
+14432,20208,Hypertension,Echocardiography,Headache,,captopril
+14432,20208,Cardiomyopathies,Echocardiography,Chest Pain,,digoxin
+14432,20208,Congestive heart failure,Echocardiography,Edema,,spironolactone
+14432,20208,Neutropenia,Bone marrow biopsy,Fever,,metronidazole
+14432,20208,Blood clot in portal vein,Scanning,Abdominal Pain,,morphine
+14432,20208,Heart failure,Echocardiography,Respiratory distress,,spironolactone
+14432,20208,Malnutrition,Diagnosis,Fatigue,,nan
+14432,20208,Pleural effusion disorder,X-ray,Illness (finding),Pleural fluid analysis result,nan
+14432,20208,Diabetes Mellitus,P palpation,Pain,Blood glucose level,result of glycosylated hemoglobin test,nan 
+14432,20208,Tricuspid Valve Insufficiency,Echocardiography,Chest Pain,,digoxin 
+14432,20208,Primary bacterial peritonitis,Diagnostics procedure for ascites diagnosis,Absence of bowel sounds,Absolute neutrophil count,result of ascitic fluid culture and sensitivity testing,nan 
+14432,20208,Endocarditis,Echocardiography,Fever,Blood culture result,ciprofloxacin 
+14432,20208,Depression postnatal,P palpation,Symptoms,Mental status examination result,nan 
+14432,20208,Anxiety,P palpation,Symptoms,Mental status examination result,nan
+30822,31798,Hypercholesterolemia,Echo-Planar Imaging,nan,nan,nan
+30822,31798,Congestive heart failure,Echo-Planar Imaging,Chest Pain,nan,Oxycodone-Acetaminophen
+30822,31798,Hypertensive disease,bronchial endoscopy,Dyspnea,nan,nan
+30822,31818,Hiatal Hernia,nan,Illness (finding),nan,PPIs
+30822,31818,Congestive heart failure,nan,Illness (finding),nan,blocker
+30822,31818,Hypertensive disease,nan,Illness (finding),nan,blocker
+30822,31818,Gastroesophageal reflux disease,nan,Illness (finding),nan,PPIs
+30822,31818,Respiratory Failure,nan,Illness (finding),nan,nan
+30822,31818,Hypercholesterolemia,nan,Illness (finding),nan,Simvastatin
+30822,31818,Deglutition Disorders,Videofluoroscopic swallowing study,Dysphagia,nan,nan
+30822,31818,Hypothyroidism,Thyroid function tests,Fatigue,Abnormal TSH result,Levothyroxine
+30822,31818,Obesity,nan,Illness (finding),nan,nan
+30822,31818,Diabetes Mellitus,Glycated hemoglobin test,Polydipsia and polyuria,Abnormal glucose tolerance test,Metformin
+3497,20469,Asthma,Pulmonary Function Test,Wheezing,nan,nan
+3497,20469,Heart valve disease,Echocardiography,Poor exercise tolerance,nan,nan
+3497,20469,nan,nan,Pain,nan,Gabapentin
+3497,20470,Asthma,Magnetic Resonance Imaging,,,
+3497,20470,Cyst,Magnetic Resonance Imaging,,,
+3497,20470,Epilepsy,Magnetic Resonance Imaging,,Levetiracetam
+3497,20470,nan,,,,,
+3497,20470,Infiltration,Magnetic Resonance Imaging,,,
+3497,20470,Edema,,,,
+3497,20470,Gabapentin,,,,Gabapentin
+3497,20470,Oxycodone-Acetaminophen,,,,Oxycodone-Acetaminophen
+3497,20471,Communicable Diseases,Magnetic Resonance Imaging,Illness (finding),nan,Ciprofloxacin
+3497,20471,Abscess,Biopsy,Edema,nan,Ibuprofen
+3497,20471,Epilepsy,Computerised tomography guidance,Seizures,nan,Levetiracetam
+3497,20471,Diverticulitides,Plain chest X-ray,Chest Pain,nan,Ibuprofen
+3497,20471,Cyst,nan,Tremor,nan,Ibuprofen
+3497,20471,Diabetes Mellitus,Magnetic Resonance Imaging,Illness (finding),nan,Aceaminophen
+3497,20471,Insulin-Dependent,Magnetic Resonance Imaging,Illness (finding),nan,Aceaminophen
+3497,20471,Infiltration,Magnetic Resonance Imaging,Illness (finding),nan,Aceaminophen
+3497,20490,Deep Vein Thrombosis,Biopsy,nan,nan,nan
+3497,20490,Epilepsy,nan,nan,nan,Phenytoin; Levetiracetam
+3497,20490,Diverticulitides,Biopsy,nan,nan,nan
+3497,20490,Asthma,nan,nan,nan,Acetaminophen
+3497,20490,Cyst,Biopsy,nan,nan,nan
+3497,20490,Diabetes Mellitus,Glycated hemoglobin test (HbA1c),nan,HbA1c result; Insulin result,Insulin-Dependent
+3497,20490,nan,Biopsy,Seizures,Laboratory test for epilepsy (EEG); Blood tests for electrolytes and glucose levels,Temozolomide
+11448,21370,nan,nan,Constipation,nan,nan
+11448,21370,Complication,nan,nan,nan,PRBC; medical; Medical
+11448,21371,nan,Diagnosis,Pain,nan,nan
+16651,26482,Diabetes,Electrocardiography,Chest Pain,White blood cell count laboratory result,
+16651,26482,Coronary Arteriosclerosis,Electrocardiography,Chest Pain,White blood cell count laboratory result,Nitroglycerin
+16651,26482,Hypertensive disease,Electrocardiography,Chest Pain,White blood cell count laboratory result,Nitroglycerin
+16651,26482,Heart failure,Electrocardiography,Dyspnea,White blood cell count laboratory result,
+16651,26482,Double coronary vessel disease,Electrocardiography,Chest Pain,White blood cell count laboratory result,Nitroglycerin
+16651,26482,Diabetes Mellitus Non-Insulin-Dependent,,,White blood cell count laboratory result,
+16651,26482,Atrial Fibrillation,Electrocardiography,Chest Pain,,Coumadin
+16651,26482,Mental Depression associated conditions cardiac complication,,,White blood cell count laboratory result,
+16651,26482,Infarction,Electrocardiography,Chest Pain,,Aspirin
+16651,26482,Obstruction,,,White blood cell count laboratory result,
+16651,26482,Thrombosis,,,White blood cell count laboratory result,Aspirin
+16651,26483,Diabetes Mellitus,,Illness (finding),White blood cell count laboratory result,
+16651,26483,Coronary Arteriosclerosis,Electrocardiography,Chest Pain,,Aspirin
+16651,26483,Hypertensive disease,,Back discomfort,White blood cell count laboratory result,
+16651,26483,Heart failure,,Dyspnea,White blood cell count laboratory result,Nitroglycerin
+16651,26483,Double coronary vessel disease,Electrocardiography,Chest Pain,,Coumadin
+16651,26483,Atrial Fibrillation,Electrocardiography,Dyspnea,,Aspirin
+16651,26483,Mental Depression,,,White blood cell count laboratory result,
+16651,26483,Infarction,Electrocardiography,Chest Pain,,Nitroglycerin
+16651,26483,Obstruction,,,White blood cell count laboratory result,
+16651,26483,Thrombosis,Electrocardiography,Chest Pain,White blood cell count laboratory result,stain
+1590,45469,Coronary Arteriosclerosis,Angiography,Chest Pain,,Simvastatin
+1590,45469,Hypertensive disease,Blood Pressure Measurement,,Blood pressure result,
+1590,45469,Hypercholesterolemia,Lipid profile test,,Cholesterol level result,Simvastatin
+1590,45469,Asthma,Pulmonary Function Test,Wheezing,,Morphine
+1590,45469,Aortic Aneurysm,Chest X-ray,Chest Pain,,PRBCs
+1590,45469,Abdominal,Abdominal ultrasound,Abdominal Pain,,Morphine
+1590,45469,Pleural effusion disorder,Thoracentesis,Dyspnea,Pleural fluid analysis,
+1590,45469,Artery coronary stenosis,Echocardiogram,Chest Pain,,Simvastatin
+1590,45469,Attention deficit hyperactivity disorder,Behavioral assessment,Hyperactivity and Impulsivity,, 
+1590,45469,Post-Traumatic Stress Disorder,Mental health assessment,Trauma-related distress and anxiety symptoms,Mental health evaluation,
+1590,45469,Stenosis,Vascular imaging,Pain in the affected area,,
+1590,45470,Hypertensive disease,Magnetic Resonance Imaging,Illness (finding),Blood pressure measurement result,
+1590,45470,Abscess,Magnetic Resonance Imaging,Pain,Culture of pus specimen,
+1590,45470,Hypercholesterolemia,Magnetic Resonance Imaging,,Cholesterol level test result,Simvastatin
+1590,45470,Asthma,Magnetic Resonance Imaging,Wheezing,Pulmonary function test result,
+1590,45470,Aortic Aneurysm,Magnetic Resonance Imaging,Chest Pain,Aneurysm size measurement result,
+1590,45470,Abdominal,Magnetic Resonance Imaging,Pain,Ultrasound imaging of abdomen,
+1590,45470,Diabetes Mellitus,Insulin-Dependent,Blood glucose monitoring,Fasting blood glucose level test result,
+1590,45470,Attention deficit hyperactivity disorder,Diagnosis,Lack of concentration,,Phenytoin
+1590,45470,Post-Traumatic Stress Disorder,Diagnosis,Nightmares,,Ondansetron
+1590,45470,Stenosis,Magnetic Resonance Imaging,Pain,Doppler ultrasound imaging of affected area,
+1590,45470,Urinary Incontinence,Urodynamic testing,Urinary incontinence symptom score,Urine culture and sensitivity testing,
+1590,45470,complication postoperative,Magnetic Resonance Imaging,Pain,Culture of wound discharge specimen,Acetaminophen
+30646,33055,Diabetes Mellitus,ANGIOCARDIOGR,nan,nan,nan
+30646,33055,Hypertensive disease,ANGIOCARDIOGR,nan,nan,coumadin
+30646,33055,Kidney Failure,ANGIOCARDIOGR,nan,nan,nan
+30646,33055,Chronic Hyperlipidemia,ANGIOCARDIOGR,nan,nan,atorvastatin
+30646,33055,Hypothyroidism,ANGIOCARDIOGR,Fever,nan,Levothyroxine
+30646,33055,Gestational thyrotoxicosis,ANGIOCARDIOGR,Fever,nan,Levothyroxine
+30646,33055,Diabetes Mellitus Insulin-Dependent ,ANGIOCARDIOGR,Fever,nan,coumadin
+30646,33055,Anemia ,ANGIOCARDIOGR,Fever,nan,Aspirin
+30646,33056,Sleep Apnea, Obstructive,Endoscopic Retrograde Cholangiopancreatography,nan,nan,morphine
+30646,33056,Congestive heart failure,Endoscopic Retrograde Cholangiopancreatography,nan,nan,coumadin
+30646,33056,Hypertensive disease,Endoscopic Retrograde Cholangiopancreatography,nan,nan,coumadin
+30646,33056,Elevated blood parathyroid hormone level,Endoscopic Retrograde Cholangiopancreatography,nan,nan,Medical
+30646,33056,Respiratory Failure,Endoscopic Retrograde Cholangiopancreatography,Fever,nan,morphine
+30646,33056,Cholelithiasis,Endoscopic Retrograde Cholangiopancreatography,Abdominal Pain,Nausea,Morphine
+30646,33056,Kidney Failure, Chronic,Endoscopic Retrograde Cholangiopancreatography,Illness (finding),nan,Morphine
+30646,33056,Hyperlipidemia,nan,Vomiting,nan,coumadin
+30646,33056,Diabetes Mellitus, Non-Insulin-Dependent,nan,Illness (finding),nan,coumadin
+30646,33056,Anemia,nan,Illness (finding),nan,coumadin
+18089,50546,Cardiomyopathies,Ejection fraction (procedure),nan,nan,Captopril
+18089,50546,Coronary Arteriosclerosis,Ejection fraction (procedure),Chest Pain,nan,Coumadin
+18089,50546,Hypertensive disease,Ejection fraction (procedure),nan,nan,MEDICAL
+18089,50546,Heart failure,Ejection fraction (procedure),Nausea,nan,Propofol
+18089,50546,Left main coronary artery disease,Ejection fraction (procedure),nan,nan,MEDICAL
+18089,50546,Atrial Fibrillation,Ejection fraction (procedure),nan,nan,Coumadin
+18089,50546,Stenosis,Ejection fraction (procedure),nan,nan,MEDICAL
+18089,50546,Mitral Valve Insufficiency,Ejection fraction (procedure),nan,nan,Captopril
+18089,50547,Cardiomyopathies,Electrophysiology studies,Fatigue,nan,nan
+18089,50547,Hypertensive disease,Plain chest X-ray,Pain,nan,Captopril
+18089,50547,Pleural effusion disorder,Plain chest X-ray,nan,nan,nan
+18089,50547,Atrial Fibrillation,Electrophysiology studies,nan,nan,Coumadin
+18089,50547,Erythema,nan,nan,nan,Aspirin
+1197,43903,Diabetes Mellitus,nan,Polyuria,nan,nan
+1197,43903,Cerebrovascular accident,Echocardiography,Wheezing,nan,Aspirin
+1197,43903,Sepsis,nan,Fever,Blood culture positive for bacteria,nan
+1197,43903,Congestive heart failure,Echocardiography,Dyspnea on exertion,BNP elevated,Furosemide
+1197,43903,Hypertensive disease,Echocardiography,Hypertension,nan,Lisinopril
+1197,43903,Peripheral Arterial Diseases,Duplex ultrasound,Claudication distance reduced,Ankle-brachial index decreased,Cilostazol
+1197,43903,Abscess,Diagnostic pericardiocentesis,Fever,Pus culture positive for bacteria,Vancomycin
+1197,43903,Acute gastroenteritis,nan,Nausea and vomiting,Stool culture positive for bacteria/norovirus/rotavirus/norovirus antigen test,Ondansetron 
+1197,43903,Kidney Failure,Abdominal ultrasound,Oliguria,Urea and creatinine increased,Furosemide 
+1197,43903,Chronic Kidney Disease,Echocardiography,Hypertension,BNP elevated,Amlodipine 
+1197,43903,Deep Vein Thrombosis,Doppler ultrasound,Pain and swelling in the leg,D-dimer increased,Rivaroxaban 
+1197,43903,Cardiac tamponade,Echocardiography,Hypotension,Pulsus paradoxus present,Nitroglycerin 
+1197,43903,Hyperlipidemia,Lipid profile test,xanthomas present in physical examination,LDL cholesterol increased,SImvastatin 
+1197,43903,Bacteremia,blood culture test,Fever,Blood culture positive for bacteria,Vancomycin 
+1197,43903,Hemorrhage,Cranial CT Scan,Numbness of limbs,Cranial CT scan shows intracranial hemorrhage,Mannitol
+1197,43904,Diabetes Mellitus,Glycated hemoglobin test,Polyuria,Lactate level result,Aspirin
+1197,43904,Cerebrovascular accident,Computed tomography (CT) scan,Numbness,Lactate level result,midodrine
+1197,43904,Sepsis,Blood culture,Fever,Lactate level result,nan
+1197,43904,Chronic disease,nan,nan,Lactate level result,nan
+1197,43904,Congestive heart failure,Chest X-ray,Dyspnea,Lactate level result,antihypertensive
+1197,43904,Hypertensive disease,Blood pressure measurement,nan,Lactate level result,midodrine
+1197,43904,Peripheral Arterial Diseases,Doppler ultrasound,Pain in legs,Lactate level result,nan
+1197,43904,Abscess,Ultrasound,Fever and chills,Lactate level result,nan
+1197,43904,Pericardial effusion,Echocardiogram,Chest pain and shortness of breath,Lactate level result,midodrine
+1197,43904,Kidney Failure, Chronic,Blood urea nitrogen (BUN) and creatinine test,Fatigue and weakness,Lactate level result,nan
+1197,43904,Deep Vein Thrombosis,Ultrasound,Sudden swelling in the leg,Prolonged activated partial thromboplastin time (aPTT) test,result nan 
+1197,43904,Cardiac tamponade,Echocardiogram,Jugular venous distention and low blood pressure ,Lactate level result,midodrine 
+1197,43904,Hyperlipidemia,Fasting lipid profile test,Nausea and abdominal pain ,Lactate level result,atorvastatin 
+1197,43904,Bacteremia,Blood culture,Fever and chills ,Lactate level result,nan 
+1197,43904,Pleural effusion disorder,Chest X-ray,Chest pain and shortness of breath ,Lactate level result,nan 
+1197,43904,Diabetes Mellitus, Insulin-Dependent,Glycated hemoglobin test,Polyuria,Lactate level result,Aspirin 
+1197,43904,Leukocytosis,Complete blood count (CBC),Fever and fatigue ,Lactate level result,nan 
+1197,43904,Mental disorders,nan,nan,Lactate level result,nan
+1197,43905,Cerebrovascular accident,Magnetic resonance imaging,Weakness on one side of the body,nan,nan
+1197,43905,Sepsis,Blood culture,Fever,Elevated white blood cell count,nan
+1197,43905,Pseudomonas aeruginosa infection,Culture of infected area,Fever,Elevated white blood cell count,nan
+1197,43905,Congestive heart failure,Chest X-ray,Shortness of breath,Elevated B-type natriuretic peptide (BNP) level,nan
+1197,43905,Hypertensive disease,Blood pressure measurement,Headache,Elevated blood pressure,nan
+1197,43905,Peripheral Arterial Diseases,Duplex ultrasound,Pain in legs while walking,Limited blood flow to legs,nan
+1197,43905,Abscess,Culture of infected area,Painful swelling at site of infection,Elevated white blood cell count,nan
+1197,43905,Kidney Failure,Blood test,Fatigue,Elevated creatinine and urea levels,midodrine
+1197,43905,Chronic obstructive pulmonary disease,Spirometry,Coughing,Wheezing and shortness of breath,nan
+1197,43905,Deep Vein Thrombosis,Ultrasound,Pain and swelling in leg,Limited blood flow to leg,midodrine 
+1197,43905,Cardiac tamponade,Echocardiography,Dyspnea on exertion,Narrow pulse pressure and elevated central venous pressure,midodrine 
+1197,43905,Hyperlipidemia,Blood test,None,Elevated cholesterol levels,atorvastatin 
+1197,43905,Bacteremia,Blood culture,Fever and chills,Elevated white blood cell count,midodrine 
+1197,43905,Diabetes Mellitus,Non-Insulin-Dependent,Hemoglobin A1c test,Frequent urination and thirst,Elevated hemoglobin A1c levels,midodrine 
+1197,43905,Pleural effusion disorder,X-ray or CT scan,Shortness of breath and chest pain,Fluid buildup in pleural space,nan
+1197,43905,Left Ventricular Hypertrophy,Echocardiography,Chest pain and shortness of breath,Thickening of left ventricle wall,midodrine
+1197,43840,Cerebrovascular accident,Palpation,,HPV+,
+1197,43840,Hypertensive disease,Palpation,Sore to touch,HPV+,
+1197,43840,Peripheral Arterial Diseases,Palpation,,HPV+,
+1197,43840,Kidney Failure, Chronic,,,HPV+
+1197,43840,Hypercholesterolemia,,,HPV+,Atorvastatin
+1197,43840,Epilepsy,,,HPV+,Phenytoin
+1197,43840,Deep Vein Thrombosis,Palpation,Sore to touch,HPV+,
+1197,43840,Bacteremia,,,HPV+
+1197,43840,Parkinson Disease,,,HPV+,
+1197,43840,Diabetes Mellitus, Non-Insulin-Dependent,,,HPV+
+1197,43840,Osteomyelitis,,Sore to touch,HPV+,
+1197,43840,Erythema,,Illness (finding),HPV+,
+1197,43840,Primary bacterial peritonitis,,Fever and Illness (finding),HPV+,Medical
+1197,43840,Anemia,,,,Aspirin
+1459,47828,Hypertension,B mode ultrasound,Elevated blood pressure,N/A,fraction
+1459,47828,Systolic,B mode ultrasound,Elevated systolic blood pressure,N/A,fraction
+1459,47828,Coronary Arteriosclerosis,Diagnosis,Chest pain,N/A,Coumadin
+1459,47828,Hypertensive disease,B mode ultrasound,Elevated blood pressure,N/A,fraction
+1459,47828,Gastroesophageal reflux disease,Diagnosis,Heartburn,N/A,medication
+1459,47828,Hypercholesterolemia,Laboratory test result,Elevated cholesterol levels in the blood,Lipid profile test result,statin
+1459,47828,Chronic Obstructive Airway Disease,Diagnosis,Dyspnea,Pulmonary function test result,N/A
+1459,47828,Asthma,Diagnosis,Wheezing,Pulmonary function test result,N/A
+1459,47828,Atrial Fibrillation,Electrocardiography,Irregular heartbeat,N/A,Coumadin/Aspirin/Verapamil 
+1459,47828,Artery Coronary Stenosis,B mode ultrasound,Chest pain/Narrowed coronary arteries on imaging studies,N/A,fraction 
+1459,47828,Neurodegenerative Disorders,Laboratory test result,Cognitive decline/Nerve damage on imaging studies,MRI/CT scan result,N/A 
+1459,47828,Sequela of injury,Laboratory test result/Patient history,Variety of symptoms depending on the injury site and severity of damage to the body part affected by the injury.,N/A,pain medication
+1459,47829,Virus Diseases,Endoscopic exploration of larynx,Throat irritation,HPV+,,
+1459,47829,Hypertensive disease,,,,Verapamil,
+1459,47829,Gastroesophageal reflux disease,Endoscopic exploration of larynx,Pain,,,
+1459,47829,Respiratory Failure,,,,,
+1459,47829,Hyperlipidemia,,,,Atorvastatin,
+1459,47829,Alzheimer's Disease,,,,dexamethasone,
+1459,47829,Urinary tract infection,,,,Ciprofloxacin,
+1459,47829,Atrial Fibrillation,Electrocardiography,,HPV+,Coumadin,
+1459,47829,Peripheral Vascular Diseases,,,,verapamil,
+1459,47829,Anxiety state,,,,verapemil
+1459,47829,Infection,,,HPV+,Ciprofloxacin,
+1459,47829,Hematoma,,,HPV+,Aspirin
+1459,47829,Subdural,,,HPV+,,
+23117,47832,Atrial Fibrillation,Magnetic Resonance Imaging,Symptoms,Partial pressure CO2 result,diltiazem
+23117,47832,Peptic Ulcer,Esophagogastroduodenoscopy,Nausea,,MEDICAL
+23117,47832,Anemia,Diagnosis,Symptoms,,morphine
+23117,47832,Osteoporosis,Plain chest X-ray,,Partial pressure CO2 result,
+23117,47832,Mental Depression,,,Partial pressure CO2 result,digoxin
+22353,56893,Diabetes Mellitus, Insulin-Dependent,Diagnosis,Polyuria,Persistent hyperglycemia,nan
+22353,56893,Diabetes Mellitus, Non-Insulin-Dependent,Diagnosis,Polyuria,Persistent hyperglycemia,nan
+22353,56893,Hypercholesterolemia,nan,Elevated cholesterol levels,nan,Aspirin
+22353,56893,Hypertensive disease,Diagnosis,Hypertension,Elevated blood pressure levels,antihypertensive,nan
+22353,56893,Pulmonary Hypertension,Echocardiography,Dyspnea,Elevated pulmonary artery pressure levels,medical,nan
+23117,59032,nan, nan, nan, nan, nan

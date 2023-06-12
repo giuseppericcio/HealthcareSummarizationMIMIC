@@ -1,0 +1,17 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Cerebrovascular accident,Magnetic resonance imaging,Weakness on one side of the body,nan,nan
+Sepsis,Blood culture,Fever,Elevated white blood cell count,nan
+Pseudomonas aeruginosa infection,Culture of infected area,Fever,Elevated white blood cell count,nan
+Congestive heart failure,Chest X-ray,Shortness of breath,Elevated B-type natriuretic peptide (BNP) level,nan
+Hypertensive disease,Blood pressure measurement,Headache,Elevated blood pressure,nan
+Peripheral Arterial Diseases,Duplex ultrasound,Pain in legs while walking,Limited blood flow to legs,nan
+Abscess,Culture of infected area,Painful swelling at site of infection,Elevated white blood cell count,nan
+Kidney Failure,Blood test,Fatigue,Elevated creatinine and urea levels,midodrine
+Chronic obstructive pulmonary disease,Spirometry,Coughing,Wheezing and shortness of breath,nan
+Deep Vein Thrombosis,Ultrasound,Pain and swelling in leg,Limited blood flow to leg,midodrine 
+Cardiac tamponade,Echocardiography,Dyspnea on exertion,Narrow pulse pressure and elevated central venous pressure,midodrine 
+Hyperlipidemia,Blood test,None,Elevated cholesterol levels,atorvastatin 
+Bacteremia,Blood culture,Fever and chills,Elevated white blood cell count,midodrine 
+Diabetes Mellitus,Non-Insulin-Dependent,Hemoglobin A1c test,Frequent urination and thirst,Elevated hemoglobin A1c levels,midodrine 
+Pleural effusion disorder,X-ray or CT scan,Shortness of breath and chest pain,Fluid buildup in pleural space,nan
+Left Ventricular Hypertrophy,Echocardiography,Chest pain and shortness of breath,Thickening of left ventricle wall,midodrine

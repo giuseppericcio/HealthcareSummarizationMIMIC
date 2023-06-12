@@ -1,0 +1,11 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Sleep Apnea, Obstructive,Endoscopic Retrograde Cholangiopancreatography,nan,nan,morphine
+Congestive heart failure,Endoscopic Retrograde Cholangiopancreatography,nan,nan,coumadin
+Hypertensive disease,Endoscopic Retrograde Cholangiopancreatography,nan,nan,coumadin
+Elevated blood parathyroid hormone level,Endoscopic Retrograde Cholangiopancreatography,nan,nan,Medical
+Respiratory Failure,Endoscopic Retrograde Cholangiopancreatography,Fever,nan,morphine
+Cholelithiasis,Endoscopic Retrograde Cholangiopancreatography,Abdominal Pain,Nausea,Morphine
+Kidney Failure, Chronic,Endoscopic Retrograde Cholangiopancreatography,Illness (finding),nan,Morphine
+Hyperlipidemia,nan,Vomiting,nan,coumadin
+Diabetes Mellitus, Non-Insulin-Dependent,nan,Illness (finding),nan,coumadin
+Anemia,nan,Illness (finding),nan,coumadin

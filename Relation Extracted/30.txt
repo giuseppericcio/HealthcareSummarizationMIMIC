@@ -1,0 +1,9 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Asthma,Magnetic Resonance Imaging,,,
+Cyst,Magnetic Resonance Imaging,,,
+Epilepsy,Magnetic Resonance Imaging,,Levetiracetam
+nan,,,,,
+Infiltration,Magnetic Resonance Imaging,,,
+Edema,,,,
+Gabapentin,,,,Gabapentin
+Oxycodone-Acetaminophen,,,,Oxycodone-Acetaminophen

@@ -1,0 +1,9 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Diabetes Mellitus,ANGIOCARDIOGR,nan,nan,nan
+Hypertensive disease,ANGIOCARDIOGR,nan,nan,coumadin
+Kidney Failure,ANGIOCARDIOGR,nan,nan,nan
+Chronic Hyperlipidemia,ANGIOCARDIOGR,nan,nan,atorvastatin
+Hypothyroidism,ANGIOCARDIOGR,Fever,nan,Levothyroxine
+Gestational thyrotoxicosis,ANGIOCARDIOGR,Fever,nan,Levothyroxine
+Diabetes Mellitus Insulin-Dependent ,ANGIOCARDIOGR,Fever,nan,coumadin
+Anemia ,ANGIOCARDIOGR,Fever,nan,Aspirin

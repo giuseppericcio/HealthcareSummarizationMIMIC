@@ -1,0 +1,6 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Atrial Fibrillation,Magnetic Resonance Imaging,Symptoms,Partial pressure CO2 result,diltiazem
+Peptic Ulcer,Esophagogastroduodenoscopy,Nausea,,MEDICAL
+Anemia,Diagnosis,Symptoms,,morphine
+Osteoporosis,Plain chest X-ray,,Partial pressure CO2 result,
+Mental Depression,,,Partial pressure CO2 result,digoxin

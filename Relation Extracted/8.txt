@@ -1,0 +1,11 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hiatal Hernia,Endoscopy (procedure),Nausea,Finding of protein level,nan
+Coronary Arteriosclerosis,Ejection fraction (procedure),Chest Pain,Finding of protein level,Coumadin
+Hypertensive disease,nan,Illness (finding),Finding of protein level,Aspirin
+Heart failure,Ejection fraction (procedure),Chest Pain,Finding of protein level,packed red blood cell
+Osteoporosis,nan,nan,Finding of protein level,nan
+Cardiovascular Diseases,nan,Illness (finding),Finding of protein level,nan
+Hemorrhage,nan,Illness (finding),Finding of protein level,nan
+associated conditions,nan,Illness (finding),Finding of protein level,nan
+Hematoma,nan,Illness (finding),Finding of protein level,nan
+systolic dysfunction,Ejection fraction (procedure),Chest Pain,Finding of protein level,Atorvastatin

@@ -1,0 +1,15 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Cerebrovascular accident,Palpation,,HPV+,
+Hypertensive disease,Palpation,Sore to touch,HPV+,
+Peripheral Arterial Diseases,Palpation,,HPV+,
+Kidney Failure, Chronic,,,HPV+
+Hypercholesterolemia,,,HPV+,Atorvastatin
+Epilepsy,,,HPV+,Phenytoin
+Deep Vein Thrombosis,Palpation,Sore to touch,HPV+,
+Bacteremia,,,HPV+
+Parkinson Disease,,,HPV+,
+Diabetes Mellitus, Non-Insulin-Dependent,,,HPV+
+Osteomyelitis,,Sore to touch,HPV+,
+Erythema,,Illness (finding),HPV+,
+Primary bacterial peritonitis,,Fever and Illness (finding),HPV+,Medical
+Anemia,,,,Aspirin

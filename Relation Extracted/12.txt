@@ -1,0 +1,15 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Acquired Community Pneumonia,Chest X-ray,Coughing,,Antibiotics
+Coronary Arteriosclerosis,Electrocardiography,Chest Pain,Blood cholesterol level test result,ASA
+Hypertensive Disease,Blood pressure measurement,,Blood pressure measurement result,Antihypertensive
+Heart Failure,Echocardiography,Dyspnea,,Diuretics
+Chronic Obstructive Airway Disease,Pulmonary function tests,Dyspnea,Pulmonary function test result,Bronchodilators
+Ischemic Cardiomyopathy,Echocardiography,Dyspnea,,Beta blockers
+Hyperlipidemia,Blood cholesterol level test,,Blood cholesterol level test result,Simvastatin
+Osteoporosis,Bone density scan,Fragility fracture history,Bone density scan result,Vitamin D and calcium supplements
+Atrial Fibrillation,Electrocardiography,Palpitations,,Coumadin
+Poliomyelitis,Muscle biopsy,Muscle weakness,Muscle biopsy result,Symptomatic treatment only 
+Pneumonia,Chest X-ray,Coughing,Fever,Antibiotics 
+Mental Depression,Mental status examination,Sadness and hopelessness,,Citalopram 
+Hypoxia,Pulse oximetry,Dyspnea,Pulse oximetry reading,Oxygen therapy 
+Pulmonary Aspiration,Chest X-ray,Coughing,Fever,Antibiotics

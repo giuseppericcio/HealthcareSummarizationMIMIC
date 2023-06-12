@@ -1,0 +1,13 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Ventricular dilatation (disorder),Plain chest X-ray,,Glucose level - finding,
+Communicable Diseases,Diagnostic tests,,Glucose level - finding,
+Hypoglycemia,,,Glucose level - finding,
+Cerebral Infarction,Diagnostic tests,,Glucose level - finding,
+nan,,,, 
+Cerebellar bleed,Diagnostic tests,,Glucose level - finding,
+Acidosis,,,Glucose level - finding,
+Bradycardia,Diagnostic tests,,Glucose level - finding,
+Hemorrhage,,,Glucose level - finding,packed red blood cell
+Intraventricular Hemorrhage (IVH),Diagnostic tests,,Glucose level - finding,packed red blood cell
+Atelectasis,Plain chest X-ray,,Glucose level - finding, 
+Apnea,,,,caffeine

@@ -1,0 +1,22 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Cerebrovascular accident,Ejection fraction (procedure),Pain,,Coumadin
+Heart failure,Electrocardiography,Chest Pain,Ejection fraction result,diuretic
+Peripheral Vascular Diseases,ANGIOCARDIOGR,burn chest,,Aspirin
+Diabetes Mellitus,Insulin-Dependent,,,Aspirin
+Diabetes Mellitus,Non-Insulin-Dependent,,,Aspirin
+Hypertensive disease,Ejection fraction (procedure),Chest Pain,,beta blocker
+Deglutition Disorders,,Pain,,Diltiazem
+Hematuria,,Pain,,Spironolactone
+Chronic Kidney Insufficiency,,Pain,left ventricular wall motion,
+Myocardial Infarction,Stress Test,Chest Pain,left ventricular wall motion,Nitroglycerin 
+Myocardial Ischemia,Ejection fraction (procedure),Chest Pain,left ventricular wall motion,Nitroglycerin 
+Hypothyroidism,,,Partial pressure CO2 result,
+Gastroesophageal reflux disease,,,Partial pressure CO2 result,
+Hypercholesterolemia,,,left ventricular wall motion,Diltiazem 
+Gout,,,,Terazosin 
+Atrial Fibrillation,Cardiac electrophysiological study,Chest Pain,left ventricular wall motion,beta blocker 
+artery coronary stenosis,Ejection fraction (procedure),Chest Pain,left ventricular wall motion,Nitroglycerin 
+Left Ventricular Hypertrophy,Ejection fraction (procedure),Chest Pain,left ventricular wall motion,beta blocker 
+Mental Retardation,,,,Aspirin  
+Mitral Valve Insufficiency,Ejection fraction (procedure),Chest Pain,left ventricular wall motion,beta blocker  
+Dressler beats,Electrocardiography,Chest Pain,left ventricular wall motion,Aspirin

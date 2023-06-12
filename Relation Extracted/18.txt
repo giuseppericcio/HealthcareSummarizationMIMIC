@@ -1,0 +1,5 @@
+Disease or Syndrome,Diagnostic Procedure,Sign or Symptom,Laboratory or Test Result,Pharmacologic Substance
+Hypertensive disease,Plain x-ray,Back Pain,nan,nan
+nan,Plain x-ray,Pain,nan,nan
+nan,Plain x-ray,Malaise,nan,nan
+Disease Progression,Plain x-ray,Symptoms,nan,nan
