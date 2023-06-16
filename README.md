@@ -15,6 +15,7 @@ La documentazione completa [leggila 📖](https://github.com/giuseppericcio/Heal
     <img src="https://th.bing.com/th/id/OIP.Ksia5B3z9LrSDC7NILmyWwHaD3?pid=ImgDet&rs=1" alt="Neo4J" height="45">
     <img src="https://github.com/CogStack/MedCAT/blob/master/media/cat-logo.png?raw=true" alt="MedCat" height="45">
     <img src="https://th.bing.com/th/id/R.943803c137dc211e2279dbe80a17c401?rik=5%2bBVufa9qlZ7fA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f10%2fPython_logo_wordmark.png&ehk=SmOqfSHQgYcJP9Z5pRpZMthkW0dDatRgVJlKeLyCTSs%3d&risl=&pid=ImgRaw&r=0" alt="Python" height="45">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="MedCat" height="45">
 </div>
 
 ## 🗊 Estratto report finale della soluzione "Healthcare Summarization" 
