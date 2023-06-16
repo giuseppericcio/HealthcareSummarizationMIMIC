@@ -19,6 +19,7 @@ Il progetto mira all'estrazione dei dati testuali (note cliniche eteoregenee tra
 https://github.com/giuseppericcio/HealthcareSummarizationMIMIC/assets/64225083/67312049-1e65-465f-b148-f4a42e56cca4
 
 <hr>
+
 ## ⚠️ Attenzione
 È essenziale notare che MIMIC-III contiene dati sensibili del paziente e, pertanto, deve essere gestito con la massima cura e nel rispetto delle normative sulla privacy e delle politiche istituzionali. Prima di utilizzare il set di dati, rivedere attentamente e aderire alle linee guida fornite dal team MIMIC e consultare il comitato etico locale.
 
