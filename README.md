@@ -1,5 +1,5 @@
 # 🩺 Healthcare Summarization in MIMIC-III
-Il progetto mira all'estrazione dei dati testuali (note cliniche eteoregenee tra di loro) semi-strutturati generati da professionisti competenti nell'ambito Healthcare, all'interno del database [MIMIC III](https://physionet.org/content/mimiciii/1.4/) (noteevents). Tali dati verranno sottoposti a processi di **Summarization** e **Named Entity Linking + Entity Linking + Relation Extraction** al fine di generare un rapporto esauriente che riassuma la storia medica del paziente. 
+Il progetto mira all'estrazione dei dati testuali (note cliniche eteoregenee tra di loro) semi-strutturati generati da professionisti competenti nell'ambito Healthcare, all'interno del database [MIMIC III](https://physionet.org/content/mimiciii/1.4/) (noteevents). Tali dati verranno sottoposti a processi di **Summarization** e **Named Entity Recognition + Entity Linking + Relation Extraction** al fine di generare un rapporto esauriente che riassuma la storia medica del paziente. 
 
 La documentazione completa [leggila 📖](https://github.com/giuseppericcio/HealthcareSummarizationMIMIC/blob/main/Healthcare_Summarization_MIMIC.pdf)
 
