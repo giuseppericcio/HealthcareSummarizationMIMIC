@@ -25,8 +25,8 @@ https://github.com/giuseppericcio/HealthcareSummarizationMIMIC/assets/64225083/6
 <hr>
 
 ## ⚠️ Warning
-It is essential to note that MIMIC-III contains sensitive patient data and, therefore, must be handled with the utmost care and in compliance with privacy regulations and institutional policies. Before using the dataset, carefully review and adhere to the guidelines provided by the MIMIC team and consult your local ethics committee.
+**It is essential to note that MIMIC-III** **contains sensitive patient data** and, therefore, must be handled with the utmost care and in compliance with privacy regulations and institutional policies. Before using the dataset, carefully review and adhere to the guidelines provided by the MIMIC team and consult your local ethics committee.
 
 ## ✅ Project realised for demonstration and educational purposes only
-Copyright © 2023 - Healthcare Summarization project carried out for the Big Data Engineering exam held at the University of Naples, Federico II. Realised for demonstration and teaching purposes only. <br>
+**Copyright © 2023** - Healthcare Summarization project carried out for the Big Data Engineering exam held at the University of Naples, Federico II. Realised for demonstration and teaching purposes only. <br>
 **Antonio Romano, Giuseppe Riccio, Michele Cirillo, Andriy Korsun**
